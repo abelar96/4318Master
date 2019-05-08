@@ -1,0 +1,52 @@
+body{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    text-align: center;
+
+}
+
+table,th,td{
+    border-collapse: collapse;
+    border:1px solid black;
+    padding: 10px;
+}
+table{
+    margin: 0 auto ;
+}
+
+div{
+    width: 800px;
+    height: auto;
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+h1{
+    color: #557cff;
+}
+
+input{
+    width: 200px;
+}
+
+input[type="submit"]{
+    width: 100px;
+}
+
+label,input {
+    display: inline-block;
+    width: 140px;
+}
+
+img{
+    height: 60px;
+    width: 40px;
+}
+
+br{
+    clear: both;
+}
+form,a{ display: inline-block }
+
+
